@@ -11,6 +11,7 @@ readme = "README.md"
 requires-python = ">=3.6"
 license = "MIT"
 license-files = [ "LICENSE.txt" ]
+dependencies = [ "clsproperties" ]
 
 [project.optional-dependencies]
 colors = ["colorama>=0.4"]
